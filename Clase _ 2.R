@@ -65,8 +65,14 @@ ggplot(data, aes(x = Categoria, y = Cantidad)) +
        y = "Cantidad")
 
 
+# mi primera pagina web
+1. Tener mi proyecto
+1. Conectar mi proyecto a github
+1. Tener un archivo en formato html llamado "indes.html"
+1. Activar Githab pages
 
-
+library(rmarkdown)
+ 
 
 
 
