@@ -72,7 +72,17 @@ ggplot(data, aes(x = Categoria, y = Cantidad)) +
 1. Activar Githab pages
 
 library(rmarkdown)
- 
+
+#importar datos
+```{r}
+source('https://inkaverse.com/setup.r')
+
+
+
+
+
+
+
 
 
 
